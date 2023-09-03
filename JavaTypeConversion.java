@@ -20,5 +20,11 @@ public class JavaTypeConversion {
         int e=(int)d;
 
         System.out.println(e);
+
+        /*Ascii Find */
+
+        char ch='g';
+        int num=ch;
+        System.out.println(num);
     }    
 }
